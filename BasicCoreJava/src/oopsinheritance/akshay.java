@@ -23,11 +23,15 @@ public class akshay
 		sm.texting();
 		
 		
+		telephone p;
 		
+		p=new telephone();
+		p.calling();
+		p=new mobile();
+		p.calling();
 		
-		
-		
-		
+		p=new smartphone();
+		p.calling();
 		
 	}
 
